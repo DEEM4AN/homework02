@@ -37,5 +37,6 @@ public class Main {
         boat.startEngine();
         boat.startSwimming();
         boat.brake();
+        boat.stopSwimming();
     }
 }
